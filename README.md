@@ -2,7 +2,7 @@
 
 ---
 
-** To provide constructive assistance, the system allows you to conveniently list the invoices for shipments and seamlessly access their detailed information **
+**The system has been designed to facilitate your work by providing you with a convenient way to list the invoices associated with shipments. Additionally, you can seamlessly access all the detailed information related to these invoices, enabling you to provide constructive feedback.**
 
 ---
 
